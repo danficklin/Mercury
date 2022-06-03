@@ -1,0 +1,70 @@
+﻿Mechanic
+
+Str 0, Dex 3, Con 1, Wis 2, Int 4, Cha -1
+
+Max Health- 9   Attack Bonus- 0
+
+Computers 2, Culture 1, Mechanics 3, Piloting 2, Sciences 1
+
+
+Soldier
+
+Str 2, Dex 4, Con 3, Wis 1, Int -1, Cha 0
+
+Max Health- 13   Attack Bonus- 1
+
+Athletics 1, Karate 1, Guns 3, Melee 1, Piloting 1
+
+
+Trader
+
+Str -1, Dex 1, Con 0, Wis 2, Int 3, Cha 4
+
+Max Health- 6   Attack Bonus- 0
+
+Culture 2, Intrigue 2, Learning 2, Negotiation 3, Piloting 2
+
+
+Pilot
+
+Str 0, Dex 4, Con -1, Wis 3, Int 2, Cha 1
+
+Max Health- 7   Attack Bonus- 1
+
+Computers 2, Guns 1, Mechanics 1, Perception 2, Piloting 3
+
+
+Freebooter
+
+Str 4, Dex 3, Con 2, Wis -1, Int 0, Cha 1
+
+Max Health- 12   Attack Bonus- 1
+
+Athletics 1, Intrigue 1, Karate 1, Guns 1, Melee 2, Piloting 1
+
+
+Colonist
+
+Str 2, Dex 1, Con 3, Wis 4, Int -1, Cha 0
+
+Max Health- 9   Attack Bonus- 0
+
+Athletics 1, Intrigue 1, Mechanics 2, Medicine 1, Melee 1, Negotiation 1, Perception 1, Survival 3
+
+
+Researcher
+
+Str -1, Dex 2, Con 0, Wis 3, Int 4, Cha 1
+
+Max Health- 6   Attack Bonus- 0
+
+Computers 2, Culture 2, Learning 2, Mechanics 1, Medicine 1, Sciences 3
+
+
+Burglar
+
+Str 0, Dex 4, Con 1, Wis -1, Int 2, Cha 3
+
+Max Health- 12   Attack Bonus- 0
+
+Athletics 1, Computers 1, Intrigue 3, Karate 1, Guns 1, Melee 1, Perception 1

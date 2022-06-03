@@ -1,0 +1,16 @@
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.exe
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.deps.json
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.runtimeconfig.json
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.runtimeconfig.dev.json
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.dll
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\bin\Debug\net5.0\Mercury.pdb
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.AssemblyInfo.cs
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.dll
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\refint\Mercury.dll
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.pdb
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\Mercury.genruntimeconfig.cache
+C:\Users\Dan\Documents\Coding\Mercury\Mercury\obj\Debug\net5.0\ref\Mercury.dll
